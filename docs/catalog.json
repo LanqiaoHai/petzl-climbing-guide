@@ -1,0 +1,4494 @@
+{
+  "meta": {
+    "date": "2026-10-16",
+    "crawled_at": "2026-10-16T22:16:39+08:00",
+    "core_count": 90,
+    "total_count": 107,
+    "seed_count": 63,
+    "source_fetched_from": "2026-10-16T22:16:39+08:00",
+    "source_fetched_until": "2026-10-16T22:16:39+08:00",
+    "extension_count": 17,
+    "resource_count": 10,
+    "verified_count": 107,
+    "topic_order": [
+      "出发准备与互检",
+      "绳结与连接",
+      "保护操作与制动",
+      "快挂与绳索管理",
+      "多段保护站与协作",
+      "下降与撤离",
+      "拖拽与自救",
+      "锁扣与装备选择",
+      "绳索性能与坠落力学",
+      "装备检查与保养",
+      "传统与器械攀登",
+      "独攀自我保护与适用限制"
+    ],
+    "coverage_note": "完整展开本次可访问的 Petzl 室内外攀岩和多段攀岩活动列表，按文章编号去重；另列经适用范围复核的器材教程与跨活动装备限制。中文为检索译题，操作条件与型号限制请查看官方原文。",
+    "language_note": "原文入口为英语；中文检索标题为本目录译写，并非 Petzl 官方中文译本。",
+    "scope_note": "不声称穷尽官网所有历史新闻、撤下页面、所有语言版本和视频频道；完整性以当前两大活动栏目对账为依据。",
+    "catalog_generated_at": "2026-10-16T22:23:23+08:00",
+    "verification_completed_at": "2026-10-16T22:18:56+08:00",
+    "verification_started_at": "2026-10-16T22:17:35+08:00",
+    "resource_verified_count": 10,
+    "downloads": {
+      "csv": "Petzl攀岩教程目录.csv",
+      "markdown": "Petzl攀岩教程目录.md",
+      "zip": "Petzl攀岩教程目录_2026-10-16.zip"
+    },
+    "product_scope_audit": {
+      "audited_at": "2026-10-16T22:06:17+08:00",
+      "sitemap_product_root_count": 134,
+      "difference_root_count": 75,
+      "fetched_difference_roots": 75,
+      "new_unique_id_count": 58
+    }
+  },
+  "articles": [
+    {
+      "id": "a77w0000000GmvNAAS",
+      "title_en": "Choice of carabiner for attaching a GRIGRI or NEOX to the harness",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/choice-of-carabiner-for-attaching-a-grigri-or-neox-to-the-harness/mousquetonsV2-pe05-connection-GRIGRI_SPO_a77w0000000GmvNAAS.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "将 GRIGRI 或 NEOX 连接到安全带的主锁选择",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX",
+        "锁扣",
+        "安全带"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:35+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmuoAAC",
+      "title_en": "Carabiner locking systems",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/carabiner-locking-systems/mousquetonsV2-pe02-systemes-verrouillage_SPO_a77w0000000GmuoAAC.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/amd",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/william",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ok",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/smd"
+      ],
+      "scope": "主目录",
+      "title_zh": "锁扣的锁门系统",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD",
+        "锁扣"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:35+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmvDAAS",
+      "title_en": "Different carabiner shapes",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/different-carabiner-shapes/mousquetonsV2-pe03-formes-mousquetons_SPO_a77w0000000GmvDAAS.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/amd",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/william",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ok",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/smd"
+      ],
+      "scope": "主目录",
+      "title_zh": "不同形状的锁扣",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD",
+        "锁扣"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:36+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmwLAAS",
+      "title_en": "Carabiner compatibility test",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/carabiner-compatibility-test/mousquetonsV2-pe18-testcompatibilite_SPO_a77w0000000GmwLAAS.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "SPIRIT",
+        "ANGE-S",
+        "ANGE-L",
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/spirit",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-s",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-l",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/amd",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/william",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ok",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/smd"
+      ],
+      "scope": "主目录",
+      "title_zh": "锁扣兼容性测试",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "SPIRIT",
+        "ANGE S",
+        "ANGE L",
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD",
+        "锁扣"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:37+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmutAAC",
+      "title_en": "Carabiner basics",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/carabiner-basics/mousquetonsV2-pe01-intro_SPO_a77w0000000GmutAAC.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "SPIRIT",
+        "ANGE-S",
+        "ANGE-L",
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/spirit",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-s",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-l",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/amd",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/william",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ok",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/smd"
+      ],
+      "scope": "主目录",
+      "title_zh": "锁扣使用基础",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "SPIRIT",
+        "ANGE S",
+        "ANGE L",
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD",
+        "锁扣"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:38+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmvSAAS",
+      "title_en": "Choice of carabiners for attaching a VERSO or REVERSO to the harness",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/choice-of-carabiners-for-attaching-a-verso-or-reverso-to-the-harness/mousquetonsV2-pe06-connection-VERSO-REVERSO_SPO_a77w0000000GmvSAAS.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO",
+        "VERSO"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/verso"
+      ],
+      "scope": "主目录",
+      "title_zh": "将 VERSO 或 REVERSO 连接到安全带的主锁选择",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "REVERSO",
+        "VERSO",
+        "锁扣",
+        "安全带"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:38+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmvcAAC",
+      "title_en": "Choice of lanyard end carabiner for a rock climbing or via ferrata lanyard",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/choice-of-lanyard-end-carabiner-for-a-rock-climbing-or-via-ferrata-lanyard/mousquetonsV2-pe08-bout-Longe-Progression_SPO_a77w0000000GmvcAAC.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONNECT-ADJUST",
+        "DUAL-CONNECT-ADJUST"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/connect-adjust",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/dual-connect-adjust"
+      ],
+      "scope": "主目录",
+      "title_zh": "攀岩或铁道攀登挽索末端的锁扣选择",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "CONNECT ADJUST",
+        "DUAL CONNECT ADJUST",
+        "锁扣",
+        "挽索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:39+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmvrAAC",
+      "title_en": "Choice of carabiners for attaching the rope to the anchor",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/choice-of-carabiners-for-attaching-the-rope-to-the-anchor/mousquetonsV2-pe11-connexions-ancrages-relais_SPO_a77w0000000GmvrAAC.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "ANNEAU"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/anneau"
+      ],
+      "scope": "主目录",
+      "title_zh": "将绳索连接到锚点的锁扣选择",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择",
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "ANNEAU",
+        "锁扣",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:39+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmwQAAS",
+      "title_en": "Examples of dangerous carabiner loading.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/examples-of-dangerous-carabiner-loading./mousquetonsV2-pe20-mauvais-Positionnements_SPO_a77w0000000GmwQAAS.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "SPIRIT",
+        "ANGE-S",
+        "ANGE-L",
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/spirit",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-s",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-l",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/amd",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/william",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ok",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/smd"
+      ],
+      "scope": "主目录",
+      "title_zh": "锁扣危险受力示例",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "SPIRIT",
+        "ANGE S",
+        "ANGE L",
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD",
+        "锁扣"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:40+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000062FAAQ",
+      "title_en": "Attaching a rope to the harness",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/attaching-a-rope-to-the-harness/mousquetonsV2-pe19-connexion-corde-harnais_SPO_a77w0000000062FAAQ.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "SAMA",
+        "SELENA",
+        "ADJAMA",
+        "LUNA"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/sama",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/selena",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/adjama",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/luna"
+      ],
+      "scope": "主目录",
+      "title_zh": "将绳索连接到安全带",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "SAMA",
+        "SELENA",
+        "ADJAMA",
+        "LUNA",
+        "绳索",
+        "安全带"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:41+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CaY8AAK",
+      "title_en": "Using pulleys with small-diameter rope or cord.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/using-pulleys-with-small-diameter-rope-or-cord./Poulies-cordelettes_SPO_a7768000000CaY8AAK.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "滑轮与小直径绳索或辅绳的配合使用",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "锁扣与装备选择",
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "绳索",
+        "滑轮"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:41+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000TOuSAAW",
+      "title_en": "Performance of new ropes",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/performance-of-new-ropes/cordes---Comportement-des-cordes-neuves_SPO_a77w0000000TOuSAAW.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "新绳的性能",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:42+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Kyw5AAC",
+      "title_en": "Elongation",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/elongation/CORDES-elongations_SPO_a77w0000000Kyw5AAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "绳索延伸率",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:42+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvlAAC",
+      "title_en": "Impact force - standards",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/impact-force---standards/CORDES-force-choc_SPO_a77w0000000KyvlAAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "冲击力标准",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:43+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Kyw0AAC",
+      "title_en": "What is the impact force of a rope?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/what-is-the-impact-force-of-a-rope-/CORDES-force-choc-tableau_SPO_a77w0000000Kyw0AAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "什么是绳索冲击力？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:44+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxXAAS",
+      "title_en": "Self-belaying is not authorized for GRIGRI, GRIGRI + and NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/self-belaying-is-not-authorized-for-grigri-grigri-and-neox/GRIGRI---Auto-assurage-non-autorise_SPO_a77w0000000KyxXAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "禁止用 GRIGRI、GRIGRI + 或 NEOX 进行绳索独攀自我保护",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "独攀自我保护与适用限制"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:44+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a771r000000TPzTAAW",
+      "title_en": "How to remove the magnets from the magnetic buckles on your helmet’s chinstrap?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/how-to-remove-the-magnets-from-the-magnetic-buckles-on-your-helmets-chinstrap-/boucles-casque-retirer-aimants_SPO_a771r000000TPzTAAW.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "如何拆除头盔下颌带磁性扣中的磁铁？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "头盔"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:45+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PCKQAA4",
+      "title_en": "Length of my new rope and the middle of the rope",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/length-of-my-new-rope-and-the-middle-of-the-rope/CORDES-Longueur-de-ma-corde-neuve-et-milieu-de-cor_SPO_a77w0000000PCKQAA4.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "新绳长度与绳中点",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:45+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Kyu4AAC",
+      "title_en": "STRING, installation and precautions",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/string-installation-and-precautions/STRING_SPO_a77w0000000Kyu4AAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "SPIRIT",
+        "ANGE-S",
+        "ANGE-L"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/spirit",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-s",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-l"
+      ],
+      "scope": "主目录",
+      "title_zh": "STRING：安装与注意事项",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "出发准备与互检"
+      ],
+      "equipment": [
+        "SPIRIT",
+        "ANGE S",
+        "ANGE L",
+        "STRING"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:46+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KywPAAS",
+      "title_en": "Forces at work in a real fall",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/forces-at-work-in-a-real-fall/CORDES-chute-efforts_SPO_a77w0000000KywPAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "实际坠落中的受力",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:46+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KywFAAS",
+      "title_en": "Influence of the belay device",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/influence-of-the-belay-device/CORDES-chute-influence-appareil_SPO_a77w0000000KywFAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "保护器的影响",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:48+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KywKAAS",
+      "title_en": "Fall comparison with rigid/human mass",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/fall-comparison-with-rigid-human-mass/CORDES-chute-masse-rigide_SPO_a77w0000000KywKAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "刚性重物与人体的坠落对比",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:48+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx000000HvTJIA0",
+      "title_en": "Video - How to Clean and Maintain Your NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/video---how-to-clean-and-maintain-your-neox/Video---Comment-nettoyer-et-entretenir-mon-NEOX_SPO_a77Tx000000HvTJIA0.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：NEOX 的清洁与保养",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:49+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvHAAS",
+      "title_en": "How was the max. impact force of 12kN determined?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/how-was-the-max.-impact-force-of-12kn-determined-/CORDES-force-choc-12kN_SPO_a77w0000000KyvHAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "12 kN 最大冲击力限值是如何确定的？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:49+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvRAAS",
+      "title_en": "When should my rope be replaced?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/when-should-my-rope-be-replaced-/CORDES-remplacement_SPO_a77w0000000KyvRAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "何时应更换绳索？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:50+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CaWCAA0",
+      "title_en": "Belay loop and tie-in points: where do I attach my lanyard, my belay device and my rope?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belay-loop-and-tie-in-points--where-do-i-attach-my-lanyard-my-belay-device-and-my-rope-/Harnais---Anneau-d-assurage-et-points-d-encordemen_SPO_a7768000000CaWCAA0.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONNECT-ADJUST",
+        "DUAL-CONNECT-ADJUST",
+        "HIRUNDOS",
+        "SAMA",
+        "SELENA",
+        "ADJAMA",
+        "LUNA",
+        "AQUILA",
+        "CORAX",
+        "SITTA"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/connect-adjust",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/dual-connect-adjust",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/hirundos",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/sama",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/selena",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/adjama",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/luna",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/aquila",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/corax",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/sitta"
+      ],
+      "scope": "主目录",
+      "title_zh": "保护环与系绳连接点：挽索、保护器和绳索应连接在哪里？",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "出发准备与互检"
+      ],
+      "equipment": [
+        "CONNECT ADJUST",
+        "DUAL CONNECT ADJUST",
+        "HIRUNDOS",
+        "SAMA",
+        "SELENA",
+        "ADJAMA",
+        "LUNA",
+        "AQUILA",
+        "CORAX",
+        "SITTA",
+        "绳索",
+        "挽索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:50+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Kyn8AAC",
+      "title_en": "Positioning the quickdraw and clipping the rope",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/positioning-the-quickdraw-and-clipping-the-rope/Escalade-falaise-Positionnement-de-la-degaine-et-C_SPO_a77w0000000Kyn8AAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [
+        "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/positioning-the-quickdraw-and-clipping-the-rope/Escalade-falaise-Positionnement-de-la-de%CC%81gaine-et-_SPO_a77w0000000Kyn8AAC.html"
+      ],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "快挂的放置方向与挂绳",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "绳索",
+        "快挂"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:51+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnbNAAS",
+      "title_en": "Good practices for belaying a lead climber",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/good-practices-for-belaying-a-lead-climber/Escalade---bonnes-pratiques-pour-assurer-en-tete_SPO_a77w0000000GnbNAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "先锋保护的良好实践",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:51+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxSAAS",
+      "title_en": "Dynamic belaying with the GRIGRI",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/dynamic-belaying-with-the-grigri/GRIGRI---Assurer-dynamique-au-GRIGRI_SPO_a77w0000000KyxSAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 GRIGRI 进行动态保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:52+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxcAAC",
+      "title_en": "Hands-free position with GRIGRI, GRIGRI + and NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/hands-free-position-with-grigri-grigri-and-neox/GRIGRI---Cle-de-blocage-du-GRIGRI-pour-arret-mains_SPO_a77w0000000KyxcAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "GRIGRI、GRIGRI + 与 NEOX：免手持状态的绳索备份要求与限制",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动",
+        "绳结与连接"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:52+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx00000002MnIAI",
+      "title_en": "Normal sound of the NEOX when taking up slack",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/normal-sound-of-the-neox-when-taking-up-slack/Bruit-normal-du-Neox_SPO_a77Tx00000002MnIAI.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "NEOX 收绳时的正常声音",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:53+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx0000003XsHIAU",
+      "title_en": "How to Belay Using the NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/how-to-belay-using-the-neox/Neox-video-How-to_SPO_a77Tx0000003XsHIAU.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "如何使用 NEOX 进行保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:55+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a771r000000XcTXAA0",
+      "title_en": "Belay technique: taking up slack",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belay-technique--taking-up-slack/Escalade---Gestuelle-d-assurage-donner-du-mou_SPO_a771r000000XcTXAA0.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "REVERSO",
+        "VERSO"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/verso"
+      ],
+      "scope": "主目录",
+      "title_zh": "保护技术：收绳",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "REVERSO",
+        "VERSO"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:55+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000CcBIAA0",
+      "title_en": "Tying in with a figure 8 knot",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/tying-in-with-a-figure-8-knot/Escalade--Noeud-en-huit_SPO_a77w0000000CcBIAA0.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用八字结连接主绳",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳结与连接"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:56+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnbrAAC",
+      "title_en": "Friction hitches",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/friction-hitches/Noeuds-autobloquants_SPO_a77w0000000GnbrAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "摩擦抓结",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳结与连接"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:56+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnbmAAC",
+      "title_en": "Knots",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/knots/Noeuds_SPO_a77w0000000GnbmAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "绳结",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳结与连接"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:57+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnbSAAS",
+      "title_en": "Universal technique for correct use of a belay device.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/universal-technique-for-correct-use-of-a-belay-device./Escalade-Assurage-gestuelle-universelle_SPO_a77w0000000GnbSAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "正确使用保护器的通用技术",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:57+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnbDAAS",
+      "title_en": "Spotting and belaying at the start of the route",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/spotting-and-belaying-at-the-start-of-the-route/Escalade-parer-en-debut-de-voie_SPO_a77w0000000GnbDAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "线路起步时的徒手保护（spotting）与绳索保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:58+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnbIAAS",
+      "title_en": "Belaying a leader climber: vigilance, anticipation and mobility",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belaying-a-leader-climber--vigilance-anticipation-and-mobility/Escalade---vigilance-et-anticipation_SPO_a77w0000000GnbIAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "保护先锋攀登者：警觉、预判与灵活移动",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:58+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GnayAAC",
+      "title_en": "Stopping a climbing fall",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/stopping-a-climbing-fall/Escalade-arreter-une-chute_SPO_a77w0000000GnayAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "制停攀登坠落",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:59+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Gnb8AAC",
+      "title_en": "Lowering",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/lowering/Escalade-faire-descendre_SPO_a77w0000000Gnb8AAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "下放攀登者",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:17:59+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Gnb3AAC",
+      "title_en": "Communication when climbing",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/communication-when-climbing/Escalade-Communiquer-en-escalade_SPO_a77w0000000Gnb3AAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "攀登中的沟通",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "出发准备与互检"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:01+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PBmDAAW",
+      "title_en": "PARTNER CHECK",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/partner-check/PARTNER-CHECK_SPO_a77w0000000PBmDAAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "伙伴互检（PARTNER CHECK）",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "出发准备与互检"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:02+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Kyn3AAC",
+      "title_en": "How to clean the anchor",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/how-to-clean-the-anchor/Escalade-falaise-Comment-installer-une-moulinette_SPO_a77w0000000Kyn3AAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "CONNECT-ADJUST"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/connect-adjust"
+      ],
+      "scope": "主目录",
+      "title_zh": "到顶清理保护站与撤除器材（收站）",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "下降与撤离"
+      ],
+      "equipment": [
+        "CONNECT ADJUST"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:03+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyweAAC",
+      "title_en": "How to coil the rope?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/how-to-coil-the-rope-/CORDES-pliage_SPO_a77w0000000KyweAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "如何盘绳？",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:03+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PCKGAA4",
+      "title_en": "Rope too short: warning - danger!",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/rope-too-short--warning---danger-/CORDES-Corde-trop-courte---attention-danger--_SPO_a77w0000000PCKGAA4.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "绳索过短：危险警示",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:04+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KywAAAS",
+      "title_en": "Primary dangers when using a rope",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/primary-dangers-when-using-a-rope/CORDES-dangers_SPO_a77w0000000KywAAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用绳索时的主要危险",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:04+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PCKLAA4",
+      "title_en": "Change in the length of my rope after use",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/change-in-the-length-of-my-rope-after-use/CORDES-evolution-de-la-longeur-de-ma-corde_SPO_a77w0000000PCKLAA4.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "绳索使用后的长度变化",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:05+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KywUAAS",
+      "title_en": "Fall factor and impact force - theory",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/fall-factor-and-impact-force---theory/CORDES-chute-theorie_SPO_a77w0000000KywUAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "坠落系数与冲击力：理论",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:06+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxNAAS",
+      "title_en": "Top-rope belaying with the GRIGRI anchored to the ground.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/top-rope-belaying-with-the-grigri-anchored-to-the-ground./GRIGRI---Assurer-avec-le-GRIGRI-fixe-au-sol_SPO_a77w0000000KyxNAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-"
+      ],
+      "scope": "主目录",
+      "title_zh": "GRIGRI 顶绳保护：地面锚点连接方式与限制",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:06+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxIAAS",
+      "title_en": "Belaying with the GRIGRI",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belaying-with-the-grigri/GRIGRI---Assurer-au-GRIGRI_SPO_a77w0000000KyxIAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 GRIGRI 进行保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:07+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyuOAAS",
+      "title_en": "Video: Belaying with a GRIGRI",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video--belaying-with-a-grigri/GRIGRI---video---Comment-assurer-le-leader-avec-un_SPO_a77w0000000KyuOAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：使用 GRIGRI 进行保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:07+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxDAAS",
+      "title_en": "VIDEO - Specific left-handed technique",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video---specific-left-handed-technique/GRIGRI--Technique-specifique-pour-gaucher_SPO_a77w0000000KyxDAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：左手使用者的专门保护技术",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:08+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KymtAAC",
+      "title_en": "Belaying with the REVERSO",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belaying-with-the-reverso/Escalade-falaise-VIDEO-Assurer-avec-le-REVERSO_SPO_a77w0000000KymtAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 REVERSO 进行保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "REVERSO",
+        "VERSO"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:08+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KymeAAC",
+      "title_en": "Video - The Worst Belayer in the World",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video---the-worst-belayer-in-the-world/Escalade-falaise-VIDEO-Le-plus-mauvais-assureur-du_SPO_a77w0000000KymeAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：世界上最糟糕的保护员",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:10+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PB9TAAW",
+      "title_en": "Recovering quickdraws in an overhang while descending",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/recovering-quickdraws-in-an-overhang-while-descending/recuperation-degaine-dans-un-devers_SPO_a77w0000000PB9TAAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "下降时回收仰角线路上的快挂",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "下降与撤离",
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "快挂"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:13+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KywZAAS",
+      "title_en": "Consequences of poor rope drag management in a common fall",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/consequences-of-poor-rope-drag-management-in-a-common-fall/CORDES-chute-tirage_SPO_a77w0000000KywZAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "一次普通坠落中绳阻管理不当的后果",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:18+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007WWwnQAG",
+      "title_en": "Video – 3 Ways to Clip a Quickdraw",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video-%E2%80%93-3-ways-to-clip-a-quickdraw/Clippage---3-techniques_SPO_a77bK000007WWwnQAG.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩"
+      ],
+      "product_sources": [
+        "SPIRIT-EXPRESS",
+        "DJINN-AXESS",
+        "ANGE-FINESSE"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/spirit-express",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/djinn-axess",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ange-finesse"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：3 种快挂挂绳方法",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "SPIRIT EXPRESS",
+        "DJINN AXESS",
+        "ANGE FINESSE",
+        "快挂"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:18+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CabgAAC",
+      "title_en": "Video - How to make and use an extendable quickdraw?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/video---how-to-make-and-use-an-extendable-quickdraw-/Tips---degaine-a-rallonge_SPO_a7768000000CabgAAC.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：如何制作和使用可延长快挂？",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "快挂"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:19+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx00000000KzIAI",
+      "title_en": "Self-belay: solo climbing with one or two fixed ropes",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/self-belay--solo-climbing-with-one-or-two-fixed-ropes/auto-assurage-2023_SPO_a77Tx00000000KzIAI.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION",
+        "NANO-TRAXION",
+        "MINI-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/nano-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mini-traxion"
+      ],
+      "scope": "主目录",
+      "title_zh": "自我保护：使用一根或两根固定绳独攀",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "独攀自我保护与适用限制"
+      ],
+      "equipment": [
+        "MICRO TRAXION",
+        "NANO TRAXION",
+        "MINI TRAXION",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:19+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx00000000ODIAY",
+      "title_en": "NEOX, ideal for lead belaying",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/neox-ideal-for-lead-belaying/NEOX-specialiste-de-l-assurage-en-tete_SPO_a77Tx00000000ODIAY.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "NEOX：适用于先锋保护",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:21+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx0000006qK5IAI",
+      "title_en": "Ascending a rope with GRIGRI, GRIGRI + and NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/ascending-a-rope-with-grigri-grigri-and-neox/Neox-remontee-sur-corde_SPO_a77Tx0000006qK5IAI.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "室内外攀岩",
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/indoor-and-outdoor-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 GRIGRI、GRIGRI + 和 NEOX 沿绳上升",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:21+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000GmwGAAS",
+      "title_en": "Choice of carabiners for attaching a HUIT, RACK... to the harness",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/choice-of-carabiners-for-attaching-a-huit-rack...-to-the-harness/mousquetonsV2-pe16-HUIT-RACK_SPO_a77w0000000GmwGAAS.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "将 HUIT、RACK 等连接到安全带的主锁选择",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "HUIT",
+        "RACK",
+        "锁扣",
+        "安全带"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:22+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Gmw1AAC",
+      "title_en": "Choice of carabiners for hauling systems and pulley attachment",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/choice-of-carabiners-for-hauling-systems-and-pulley-attachment/mousquetonsV2-pe13-mouflages_SPO_a77w0000000Gmw1AAC.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion"
+      ],
+      "scope": "主目录",
+      "title_zh": "拖拽系统与滑轮连接的锁扣选择",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "MICRO TRAXION",
+        "锁扣",
+        "滑轮"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:22+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx000000JWtpIAG",
+      "title_en": "Which belay system should be used to belay a leader directly off the anchor on a multi-pitch route?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/choosing-the-right-equipment/which-belay-system-should-be-used-to-belay-a-leader-directly-off-the-anchor-on-a-multi-pitch-route-/Demi-cabestan-ou-Reverso-au-relais_SPO_a77Tx000000JWtpIAG.html",
+      "section_slug": "choosing-the-right-equipment",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso"
+      ],
+      "scope": "主目录",
+      "title_zh": "多段线路中直接从保护站保护先锋攀登者：应选用哪种保护系统？",
+      "official_sections": [
+        "装备选择"
+      ],
+      "topics": [
+        "锁扣与装备选择",
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "REVERSO"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:23+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PCWCAA4",
+      "title_en": "Risks related to replacing the rope in the ADJUST adjustable lanyards",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/product-information-and-specifications/risks-related-to-replacing-the-rope-in-the-adjust-adjustable-lanyards/CONNECT-ADJUST--changement-corde_SPO_a77w0000000PCWCAA4.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "CONNECT-ADJUST",
+        "DUAL-CONNECT-ADJUST"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/connect-adjust",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/dual-connect-adjust"
+      ],
+      "scope": "主目录",
+      "title_zh": "更换 ADJUST 可调挽索中绳索的风险",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "CONNECT ADJUST",
+        "DUAL CONNECT ADJUST",
+        "绳索",
+        "挽索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:24+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KypxAAC",
+      "title_en": "Rappelling",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/rappelling/escalade-grde-voie-rappel_SPO_a77w0000000KypxAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO",
+        "DUAL-CONNECT-ADJUST",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM",
+        "PASO-GUIDE-7.7-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/dual-connect-adjust",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/paso-guide-7.7-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "自主下降",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "下降与撤离"
+      ],
+      "equipment": [
+        "REVERSO",
+        "DUAL CONNECT ADJUST",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "PASO GUIDE 7.7 MM"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:24+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a775I000000L1ZfQAK",
+      "title_en": "Multi-pitch rappelling with a single rope",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/multi-pitch-rappelling-with-a-single-rope/Descendre-en-grande-voie-sur-corde-a-simple_SPO_a775I000000L1ZfQAK.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "PUR-LINE-6-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/pur-line-6-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用单绳进行多段自主下降",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "下降与撤离",
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "PUR LINE 6 mm",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:25+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a775I0000004HblQAE",
+      "title_en": "Belaying multi-pitch routes on single rope with a GRIGRI.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belaying-multi-pitch-routes-on-single-rope-with-a-grigri./Assurer-en-grande-voie-sur-corde-a-simple-avec-un-_SPO_a775I0000004HblQAE.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "PUR-LINE-6-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/pur-line-6-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 GRIGRI 和单绳进行多段攀岩保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "PUR LINE 6 mm",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:25+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CaWHAA0",
+      "title_en": "Knot for joining rappel ropes",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/knot-for-joining-rappel-ropes/Noeud-de-jonction_SPO_a7768000000CaWHAA0.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "连接下降绳的绳结",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "下降与撤离",
+        "绳结与连接"
+      ],
+      "equipment": [
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:26+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CabWAAS",
+      "title_en": "Video - How to make a Prusik loop for a rappel backup?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video---how-to-make-a-prusik-loop-for-a-rappel-backup-/tips---faire-un-prussik_SPO_a7768000000CabWAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：如何制作自主下降备份用的 Prusik 绳环？",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "下降与撤离"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:27+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CabbAAC",
+      "title_en": "Video - How to manage the rope at the belay?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video---how-to-manage-the-rope-at-the-belay-/tips---gerer-sa-corde-au-relais_SPO_a7768000000CabbAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：如何在保护站管理绳索？",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:27+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a771r000000PFpCAAW",
+      "title_en": "Stuck screwgate carabiner",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/stuck-screwgate-carabiner/Mousqueton-bloqueverrouille_SPO_a771r000000PFpCAAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/amd",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/william",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ok",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/smd"
+      ],
+      "scope": "主目录",
+      "title_zh": "丝扣主锁卡死",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "ATTACHE",
+        "AMD",
+        "WILLIAM",
+        "OK",
+        "SMD",
+        "锁扣"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:28+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KypsAAC",
+      "title_en": "Climbing with alternate leaders",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/climbing-with-alternate-leaders/escalade-grde-voie-grimpe-reversible_SPO_a77w0000000KypsAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "交替先锋的多段攀登",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:29+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KysSAAS",
+      "title_en": "Belaying the second with a MICRO TRAXION or NANO TRAXION: beware of any fall",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/belaying-the-second-with-a-micro-traxion-or-nano-traxion--beware-of-any-fall/MICRO-TRAXION---sport-7---Assurage-du-second-avec-_SPO_a77w0000000KysSAAS.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION",
+        "NANO-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/nano-traxion"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 MICRO TRAXION 或 NANO TRAXION 保护跟攀者：警惕任何坠落",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "MICRO TRAXION",
+        "NANO TRAXION"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:29+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyknAAC",
+      "title_en": "Pitons",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/pitons/Big-Wall-Pitons_SPO_a77w0000000KyknAAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "V-CONIQUE",
+        "ROCHER-MIXTE"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/v-conique",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rocher-mixte"
+      ],
+      "scope": "主目录",
+      "title_zh": "岩钉",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "传统与器械攀登"
+      ],
+      "equipment": [
+        "V CONIQUE",
+        "ROCHER MIXTE",
+        "岩钉"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:30+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PCOmAAO",
+      "title_en": "Aid climbing progression",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/aid-climbing-progression/EVOLV-ADJUST-artif-devers_SPO_a77w0000000PCOmAAO.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "DUAL-EVOLV-ADJUST"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/dual-evolv-adjust"
+      ],
+      "scope": "主目录",
+      "title_zh": "器械攀登中的行进",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "传统与器械攀登"
+      ],
+      "equipment": [
+        "DUAL EVOLV ADJUST"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:31+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx000000E3MEIA0",
+      "title_en": "Building a belay anchor and belaying on a bolted multi-pitch route",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/building-a-belay-anchor-and-belaying-on-a-bolted-multi-pitch-route/Relais-grande-voie_SPO_a77Tx000000E3MEIA0.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "设有固定锚栓的多段线路：建立保护站与进行保护",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:34+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007PH4rQAG",
+      "title_en": "Inspection of anchors on rock, ice or mixed routes.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/inspection-of-anchors-on-rock-ice-or-mixed-routes./Verification-des-ancrages-sur-rocher--glace-ou-mix_SPO_a77bK000007PH4rQAG.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "PULSE-8-MM",
+        "COEUR-STAINLESS",
+        "COEUR-BOLT-STAINLESS",
+        "COEUR-PULSE-12-MM",
+        "BATINOX",
+        "BOLT-STAINLESS",
+        "VRILLEE",
+        "COUDEE",
+        "UNIVERSEL",
+        "LIVANOS",
+        "V-CONIQUE",
+        "ROCHER-MIXTE",
+        "COLLINOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/pulse-8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/coeur-stainless",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/coeur-bolt-stainless",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/coeur-pulse-12-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/batinox",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/bolt-stainless",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/vrillee",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/coudee",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/universel",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/livanos",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/v-conique",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rocher-mixte",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/collinox"
+      ],
+      "scope": "主目录",
+      "title_zh": "岩石、冰面或混合线路上的锚点检查",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "PULSE 8 MM",
+        "COEUR STAINLESS",
+        "COEUR BOLT STAINLESS",
+        "COEUR PULSE 12 MM",
+        "BATINOX",
+        "BOLT STAINLESS",
+        "VRILLEE",
+        "COUDEE",
+        "UNIVERSEL",
+        "LIVANOS",
+        "V CONIQUE",
+        "ROCHER MIXTE",
+        "COLLINOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:34+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007WWvBQAW",
+      "title_en": "Video – How to Coil a Rope for Carrying on a Backpack",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video-%E2%80%93-how-to-coil-a-rope-for-carrying-on-a-backpack/Video---Comment-plier-sa-corde-pour-la-mettre-sur-_SPO_a77bK000007WWvBQAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "ARIAL-9.5-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/arial-9.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：如何盘绳并挂在背包上携带",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "快挂与绳索管理"
+      ],
+      "equipment": [
+        "ARIAL 9.5 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:35+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007WaabQAC",
+      "title_en": "Video – Hauling a Pack on a Multi-Pitch Route with the PUR LINE",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video-%E2%80%93-hauling-a-pack-on-a-multi-pitch-route-with-the-pur-line/Video---Hissage-de-sac-en-grande-voie-avec-PUR-LIN_SPO_a77bK000007WaabQAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "PUR-LINE-6-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/pur-line-6-mm"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：多段线路中使用 PUR LINE 拖拽背包",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "拖拽与自救",
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "PUR LINE 6 mm",
+        "PUR LINE"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:36+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007WaqjQAC",
+      "title_en": "Video – Stowing a Friction Hitch Cord",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video-%E2%80%93-stowing-a-friction-hitch-cord/Video---Rangement-d-un-noeud-autobloquant_SPO_a77bK000007WaqjQAC.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：摩擦抓结辅绳的收纳",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳结与连接"
+      ],
+      "equipment": [],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:38+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a7768000000CaY3AAK",
+      "title_en": "Rappelling with GRIGRI and NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/rappelling-with-grigri-and-neox/Grigri---descente-en-rappel_SPO_a7768000000CaY3AAK.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 GRIGRI 和 NEOX 进行自主下降",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "下降与撤离"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:38+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KysNAAS",
+      "title_en": "Lowering a load with the cam deactivated",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/lowering-a-load-with-the-cam-deactivated/MICRO-TRAXION---sport-6---Descente-d-une-charge-av_SPO_a77w0000000KysNAAS.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion"
+      ],
+      "scope": "主目录",
+      "title_zh": "凸轮解除锁定时下放负载",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "MICRO TRAXION"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:39+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx00000000MbIAI",
+      "title_en": "Belaying a second from above with GRIGRI, GRIGRI + and NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/belaying-a-second-from-above-with-grigri-grigri-and-neox/Neox---Assurer-un-second-depuis-le-haut_SPO_a77Tx00000000MbIAI.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "主目录",
+      "title_zh": "使用 GRIGRI、GRIGRI + 和 NEOX 从上方保护跟攀者",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:40+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx000000GtdFIAS",
+      "title_en": "Self Rescue: Ascending a Rope on a Multi-Pitch Rappel",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/self-rescue--ascending-a-rope-on-a-multi-pitch-rappel/Auto-secours---Remontee-sur-corde-lors-d-un-rappel_SPO_a77Tx000000GtdFIAS.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso"
+      ],
+      "scope": "主目录",
+      "title_zh": "自救：多段自主下降中的沿绳上升",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "拖拽与自救",
+        "多段保护站与协作",
+        "下降与撤离"
+      ],
+      "equipment": [
+        "REVERSO",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:40+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77Tx000000Ib17IAC",
+      "title_en": "Rappelling: installing a REVERSO on a CONNECT ADJUST adjustable single lanyard",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/rappelling--installing-a-reverso-on-a-connect-adjust-adjustable-single-lanyard/Descente-en-rappel---Installation-d-un-REVERSO-sur_SPO_a77Tx000000Ib17IAC.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO",
+        "CONNECT-ADJUST"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/connect-adjust"
+      ],
+      "scope": "主目录",
+      "title_zh": "自主下降：将 REVERSO 安装在 CONNECT ADJUST 可调单挽索上",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "下降与撤离"
+      ],
+      "equipment": [
+        "REVERSO",
+        "CONNECT ADJUST",
+        "VERSO",
+        "挽索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:42+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007VCVVQA4",
+      "title_en": "Video – Assisting the Second on a Multi-Pitch Route",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/video-%E2%80%93-assisting-the-second-on-a-multi-pitch-route/Video---Aide-au-second-en-grande-voie_SPO_a77bK000007VCVVQA4.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO",
+        "MICRO-TRAXION",
+        "NANO-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/nano-traxion"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：多段线路中协助跟攀者",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "拖拽与自救",
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "REVERSO",
+        "MICRO TRAXION",
+        "NANO TRAXION"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:42+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007VJ2LQAW",
+      "title_en": "Video – Tip for Belaying with the REVERSO on Multi-Pitch Routes",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/expert-techniques/video-%E2%80%93-tip-for-belaying-with-the-reverso-on-multi-pitch-routes/Video---Astuce-pour-assurer-au-REVERSO-en-grande-v_SPO_a77bK000007VJ2LQAW.html",
+      "section_slug": "expert-techniques",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [
+        "REVERSO"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/reverso"
+      ],
+      "scope": "主目录",
+      "title_zh": "视频：多段线路中使用 REVERSO 进行保护的技巧",
+      "official_sections": [
+        "进阶技术"
+      ],
+      "topics": [
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "REVERSO",
+        "VERSO"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:43+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PBmcAAG",
+      "title_en": "Second climber stuck: hauling on a loaded rope",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/rescue/second-climber-stuck--hauling-on-a-loaded-rope/Mouflage-sur-corde-tendue_SPO_a77w0000000PBmcAAG.html",
+      "section_slug": "rescue",
+      "aliases": [],
+      "activities": [
+        "多段攀岩"
+      ],
+      "product_sources": [],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips/multi-pitch-climbing"
+      ],
+      "scope": "主目录",
+      "title_zh": "跟攀者被困：受载绳索上的拖拽",
+      "official_sections": [
+        "救援"
+      ],
+      "topics": [
+        "拖拽与自救",
+        "多段保护站与协作"
+      ],
+      "equipment": [
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:44+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyxhAAC",
+      "title_en": "Unblocking a rope that is jammed behind the cam",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/unblocking-a-rope-that-is-jammed-behind-the-cam/GRIGRI---coincement-cordes-derriere-la-came---debl_SPO_a77w0000000KyxhAAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "GRIGRI"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "处理卡在凸轮后方的绳索",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:44+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PBhNAAW",
+      "title_en": "Tensioning a tyrolean with the GRIGRI or the NEOX",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/tensioning-a-tyrolean-with-the-grigri-or-the-neox/GRIGRI-Tendre-une-tyrolienne_SPO_a77w0000000PBhNAAW.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-",
+        "NEOX"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/neox"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "使用 GRIGRI 或 NEOX 张紧横渡绳索",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "NEOX"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:45+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000TOrdAAG",
+      "title_en": "Using the GRIGRI/GRIGRI + with a low stretch kernmantel rope",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/basic-techniques/using-the-grigri-grigri-with-a-low-stretch-kernmantel-rope/GRIGRI---Utilisation-du-GRIGRIPlus-avec-cordes-sem_SPO_a77w0000000TOrdAAG.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "GRIGRI",
+        "GRIGRI-"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/grigri-"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "GRIGRI / GRIGRI + 与低延展绳（kernmantel rope）的配合使用",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "锁扣与装备选择",
+        "保护操作与制动"
+      ],
+      "equipment": [
+        "GRIGRI",
+        "GRIGRI +",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:46+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PCNoAAO",
+      "title_en": "Using the EVOLV ADJUST lanyard",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/using-the-evolv-adjust-lanyard/EVOLV-ADJUST-resistance_SPO_a77w0000000PCNoAAO.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "DUAL-EVOLV-ADJUST"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/dual-evolv-adjust"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "EVOLV ADJUST：新旧版本的使用范围与限制",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "传统与器械攀登",
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "DUAL EVOLV ADJUST",
+        "挽索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:47+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007VEnRQAW",
+      "title_en": "Video – Munter Hitch With Mule Knot and Stopper Knot",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video-%E2%80%93-munter-hitch-with-mule-knot-and-stopper-knot/Video---Demi-cabestan-avec-un-noeud-de-mule-et-noe_SPO_a77bK000007VEnRQAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "ATTACHE",
+        "ATTACHE-BAR"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/attache-bar"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "视频：意大利半扣（Munter Hitch）配合骡结与止结",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳结与连接"
+      ],
+      "equipment": [
+        "ATTACHE",
+        "ATTACHE BAR"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:47+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a771r000000Co9qAAC",
+      "title_en": "Pulley system efficiency tests with MAESTRO, I’D S, PRO TRAXION, ROLLCLIP...",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/pulley-system-efficiency-tests-with-maestro-id-s-pro-traxion-rollclip.../MAESTRO-Pe07-Mouflages_SPO_a771r000000Co9qAAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION",
+        "NANO-TRAXION",
+        "MINI-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/nano-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mini-traxion"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "MAESTRO、I’D S、PRO TRAXION、ROLLCLIP 等的滑轮系统效率测试",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "拖拽与自救",
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "MICRO TRAXION",
+        "NANO TRAXION",
+        "MINI TRAXION",
+        "滑轮",
+        "PRO TRAXION",
+        "ROLLCLIP"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:48+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PBhDAAW",
+      "title_en": "Using a single ascender?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/using-a-single-ascender-/bloqueurs-pe01-redondance_SPO_a77w0000000PBhDAAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION",
+        "ASCENSION",
+        "BASIC"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ascension",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/basic"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "能否只使用一个上升器？",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "MICRO TRAXION",
+        "ASCENSION",
+        "BASIC",
+        "上升器"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:48+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyscAAC",
+      "title_en": "Ascending the rope in self-rescue: take care when approaching the anchor",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/rescue/ascending-the-rope-in-self-rescue---take-care-when-approaching-the-anchor/MICRO-TRAXION---sport-9--Remontee-sur-corde-en-aut_SPO_a77w0000000KyscAAC.html",
+      "section_slug": "rescue",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "自救中的沿绳上升：接近锚点时的注意事项",
+      "official_sections": [
+        "救援"
+      ],
+      "topics": [
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "MICRO TRAXION",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:49+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KysIAAS",
+      "title_en": "Short lower of the load during hauling",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/rescue/short-lower-of-the-load-during-hauling/MICRO-TRAXION---sport-5---Descente-courte-de-la-ch_SPO_a77w0000000KysIAAS.html",
+      "section_slug": "rescue",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "MICRO-TRAXION"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/micro-traxion"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "拖拽过程中短距离下放负载",
+      "official_sections": [
+        "救援"
+      ],
+      "topics": [
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "MICRO TRAXION"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:50+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PBhIAAW",
+      "title_en": "Short down-climb on ascenders",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/short-down-climb-on-ascenders/bloqueurs-pe02-descentecourte_SPO_a77w0000000PBhIAAW.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "ASCENSION",
+        "BASIC"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/ascension",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/basic"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "使用上升器短距离下行",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "拖拽与自救"
+      ],
+      "equipment": [
+        "ASCENSION",
+        "BASIC",
+        "上升器"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:51+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvgAAC",
+      "title_en": "How to protect the rope?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/how-to-protect-the-rope-/CORDES-precautions_SPO_a77w0000000KyvgAAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "如何保护绳索？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:53+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvvAAC",
+      "title_en": "How should my rope be cleaned?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/how-should-my-rope-be-cleaned-/CORDES-entretien_SPO_a77w0000000KyvvAAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "CONTACT-9.8-MM",
+        "MAMBO-10.1-MM",
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/contact-9.8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/mambo-10.1-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "如何清洗绳索？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "CONTACT 9.8 MM",
+        "MAMBO 10.1 MM",
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:53+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvCAAS",
+      "title_en": "Why the 55 kg test mass for half ropes?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/why-the-55-kg-test-mass-for-half-ropes-/CORDES-masse-55kg-corde-double_SPO_a77w0000000KyvCAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "半绳（half rope）为何采用 55 kg 测试重物？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:54+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000KyvMAAS",
+      "title_en": "Why the 8 kN impact force for half ropes?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/why-the-8-kn-impact-force-for-half-ropes-/CORDES-force-choc-8kN-corde-double_SPO_a77w0000000KyvMAAS.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "半绳（half rope）为何采用 8 kN 冲击力指标？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:54+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000Kyv7AAC",
+      "title_en": "What would be the results of tests done with 80 kg on one strand of a half rope?",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips-by-product/product-information-and-specifications/what-would-be-the-results-of-tests-done-with-80-kg-on-one-strand-of-a-half-rope-/CORDES-test-80kg-corde-double_SPO_a77w0000000Kyv7AAC.html",
+      "section_slug": "product-information-and-specifications",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "TANGO-8.5-MM",
+        "RUMBA-8-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/tango-8.5-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "对单股半绳（half rope）进行 80 kg 测试会得到什么结果？",
+      "official_sections": [
+        "产品信息与性能"
+      ],
+      "topics": [
+        "绳索性能与坠落力学"
+      ],
+      "equipment": [
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "TANGO 8.5 MM",
+        "RUMBA 8 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:55+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77bK000007VFRlQAO",
+      "title_en": "Video – Daisy Chaining Your Ropes for Drying",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/video-%E2%80%93-daisy-chaining-your-ropes-for-drying/Video---Lover-ses-cordes-en-chainette-pour-les-fai_SPO_a77bK000007VFRlQAO.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "VOLTA-9.2-MM",
+        "VOLTA-GUIDE-9-MM",
+        "RUMBA-8-MM",
+        "PASO-GUIDE-7.7-MM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-9.2-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/volta-guide-9-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rumba-8-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/paso-guide-7.7-mm"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "视频：将绳索编成链状以便晾干",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "装备检查与保养"
+      ],
+      "equipment": [
+        "VOLTA 9.2 MM",
+        "VOLTA GUIDE 9 MM",
+        "RUMBA 8 MM",
+        "PASO GUIDE 7.7 MM",
+        "绳索"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:56+08:00",
+      "has_video": true,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对"
+    },
+    {
+      "id": "a77w0000000PC34AAG",
+      "title_en": "Other progression situations that are incompatible with the RAD LINE hyperstatic cord.",
+      "url": "https://www.petzl.com/us/en/sport/tech-tips/basic-techniques/other-progression-situations-that-are-incompatible-with-the-rad-line-hyperstatic-cord./RADsystem-pe07-autre-progression-simultanee_SPO_a77w0000000PC34AAG.html",
+      "section_slug": "basic-techniques",
+      "aliases": [],
+      "activities": [
+        "相关绳索技术"
+      ],
+      "product_sources": [
+        "RAD-LINE-6-MM",
+        "RAD-SYSTEM"
+      ],
+      "source_urls": [
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rad-line-6-mm",
+        "https://www.petzl.com/us/en/sport/tech-tips-by-product/rad-system"
+      ],
+      "scope": "装备扩展",
+      "title_zh": "RAD LINE 超静力辅绳：不适用的攀登情形",
+      "official_sections": [
+        "基础技术"
+      ],
+      "topics": [
+        "绳索性能与坠落力学",
+        "锁扣与装备选择"
+      ],
+      "equipment": [
+        "RAD LINE 6 MM",
+        "RAD SYSTEM",
+        "RAD LINE",
+        "超静力辅绳"
+      ],
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:18:56+08:00",
+      "has_video": false,
+      "title_matches": true,
+      "language": "英语",
+      "translation_status": "已译并校对",
+      "context_note": "跨活动的装备适用限制；请核对原文限定用途。"
+    }
+  ],
+  "resources": [
+    {
+      "id": "accessbook_index",
+      "title_zh": "Access Book 官方电子书总入口",
+      "title_en": "Petzl Access Books: Essential Technical Guides, Available for Download",
+      "url": "https://www.petzl.com/be/en/sport/we-are-petzl/indoor-and-outdoor-climbing/petzl-access-books--essential-technical-guides-available-for-download/-NEWS--SPORT--Ebook-download_SPO_a7CbK0000000kZ7UAI.html",
+      "type": "官方总入口",
+      "description": "官方 Sport Access Book 全系列介绍与下载入口，列出 #1–#7；直接对应岩石攀登的是 #1、#5、#6、#7。各册下载页需自行填写联系资料、选择文档语言，再通过邮件获得下载链接；本目录未代填或提交表单。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:13.2786178+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/be/en/sport/we-are-petzl/indoor-and-outdoor-climbing/petzl-access-books--essential-technical-guides-available-for-download/-NEWS--SPORT--Ebook-download_SPO_a7CbK0000000kZ7UAI.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：Petzl Access Books: Essential Technical Guides, Available for Download"
+    },
+    {
+      "id": "accessbook_1",
+      "title_zh": "Access Book #1：岩馆顶绳与先锋保护",
+      "title_en": "ACCESS BOOK #1: Belaying in a climbing gym",
+      "url": "https://www.petzl.com/int/en/downloads/access-book--1--belaying-in-a-climbing-gym/accessbook-sport-n1-belaying-in-a-climbing-gym.html",
+      "type": "电子手册",
+      "description": "适合室内顶绳与先锋基础学习及复习，涵盖连接主绳、伙伴互检、保护动作与挂绳。官方入口使用联系资料和文档语言表单，通过邮件发放下载链接；本目录仅收录入口，未提交表单。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.5451408+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/downloads/access-book--1--belaying-in-a-climbing-gym/accessbook-sport-n1-belaying-in-a-climbing-gym.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：ACCESS BOOK #1: Belaying in a climbing gym"
+    },
+    {
+      "id": "accessbook_5",
+      "title_zh": "Access Book #5：户外运动攀岩与保护",
+      "title_en": "ACCESS BOOK #5 : Sport climbing: climbing and belaying",
+      "url": "https://www.petzl.com/int/en/downloads/access-book--5-sport-climbing--climbing-and-belaying/accessbook-sport-n5-belaying-and-climbing-outdoors.html",
+      "type": "电子手册",
+      "description": "面向装备完善的户外运动攀线路，介绍出行准备、保护、攀爬常见错误、到顶后的下放和未能到顶时的处理。官方明确不涵盖多段攀岩或传统攀。需自行填写官网表单并通过邮件获得下载链接；本目录未提交表单。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.5615714+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/downloads/access-book--5-sport-climbing--climbing-and-belaying/accessbook-sport-n5-belaying-and-climbing-outdoors.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：ACCESS BOOK #5 : Sport climbing: climbing and belaying"
+    },
+    {
+      "id": "accessbook_6",
+      "title_zh": "Access Book #6：室内与户外抱石",
+      "title_en": "ACCESS BOOK n°6: Indoor and Outdoor Bouldering",
+      "url": "https://www.petzl.com/int/en/downloads/access-book-n6--indoor-and-outdoor-bouldering/accessbook-sport-n6-indoor-and-outdoor-bouldering.html",
+      "type": "电子手册",
+      "description": "适合初次接触室内或户外抱石，内容涉及热身、落地与 spotting 等基础。官方入口使用联系资料和语言选择表单，通过邮件发放下载链接；本目录未代填或提交表单。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.5721736+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/downloads/access-book-n6--indoor-and-outdoor-bouldering/accessbook-sport-n6-indoor-and-outdoor-bouldering.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：ACCESS BOOK n°6: Indoor and Outdoor Bouldering"
+    },
+    {
+      "id": "accessbook_7",
+      "title_zh": "Access Book #7：多段攀岩保护",
+      "title_en": "Accessbook Sport #7: Multipitch Belaying",
+      "url": "https://www.petzl.com/int/en/downloads/accessbook-sport--7--multipitch-belaying/accessbook-sport-n7-multipitch-belaying.html",
+      "type": "电子手册",
+      "description": "面向装备完善的多段线路，帮助准备攀登并复习多段保护核心技术。官方入口使用联系资料和语言选择表单，通过邮件发放下载链接；本目录未代填或提交表单。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.5802236+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/downloads/accessbook-sport--7--multipitch-belaying/accessbook-sport-n7-multipitch-belaying.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：Accessbook Sport #7: Multipitch Belaying"
+    },
+    {
+      "id": "ppe_sport_harness_inspection",
+      "title_zh": "运动安全带 PPE 检查程序（2026 版）",
+      "title_en": "PPE Inspection — Inspection procedure — SPORT HARNESSES (160126)",
+      "url": "https://www.petzl.com/sfc/servlet.shepherd/version/download/068bK00000fXc8ZQAS",
+      "type": "PPE 检查 PDF",
+      "description": "官方运动安全带通用检查程序，版本标识 160126，即 2026 年 1 月 16 日；由官方安全带产品技术资料页链接。应与具体型号使用说明配合使用。其他装备需从对应产品页获取各自的 PPE inspection procedure 与 PPE checklist，不能套用安全带程序。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.5900835+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://media.petzl.com/sfc/servlet.shepherd/version/download/068bK00000fXc8ZQAS",
+      "verification_note": "实时 GET 返回 PDF，已检查文件头；题名与运动安全带适用范围由官方产品资料页及该文件的官方索引交叉核验，未读取全文。",
+      "source_page": "https://www.petzl.com/INT/en/Sport/Harnesses/technical-content-product/ALTITUDE"
+    },
+    {
+      "id": "faq_lifetime",
+      "title_zh": "装备寿命与退役条件",
+      "title_en": "What is the lifetime of my Petzl equipment?",
+      "url": "https://www.petzl.com/int/en/faq/what-is-the-lifetime-of-my-petzl-equipment-/000001190.html",
+      "type": "装备 FAQ",
+      "description": "官方说明塑料及纺织装备的最大寿命从制造日期计算，金属装备也可能因使用或异常事件需要退役；具体判定应结合对应产品的使用说明和检查程序。最大寿命不是保证可使用的年限。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.6181661+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/faq/what-is-the-lifetime-of-my-petzl-equipment-/000001190.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：What is the lifetime of my Petzl equipment?"
+    },
+    {
+      "id": "faq_retirement",
+      "title_zh": "装备退役与处置",
+      "title_en": "How do I retire my gear?",
+      "url": "https://www.petzl.com/int/en/faq/how-do-i-retire-my-gear-/000001878.html",
+      "type": "装备 FAQ",
+      "description": "官方装备退役指南入口，涉及如何使退役装备无法再使用，以及后续处置。页面提供 Guidelines for retiring your equipment 下载链接。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.6452035+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/faq/how-do-i-retire-my-gear-/000001878.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：How do I retire my gear?"
+    },
+    {
+      "id": "faq_manufacture_date",
+      "title_zh": "如何识别装备制造日期",
+      "title_en": "How do I find out when my PPE was manufactured?",
+      "url": "https://www.petzl.com/int/en/faq/how-do-i-find-out-when-my-ppe-was-manufactured-/000001909.html",
+      "type": "装备 FAQ",
+      "description": "解释如何通过序列号和 MM/YY 制造日期标识识别产品生产时间。不同年代的标识可能不同，应对照具体装备标识及官方说明，区分制造日期、购买日期和首次使用日期。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.6593706+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/faq/how-do-i-find-out-when-my-ppe-was-manufactured-/000001909.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：How do I find out when my PPE was manufactured?"
+    },
+    {
+      "id": "faq_care",
+      "title_zh": "装备清洁与保养入口",
+      "title_en": "How do I care appropriately for my Petzl equipment?",
+      "url": "https://www.petzl.com/int/en/faq/how-do-i-care-appropriately-for-my-petzl-equipment-/000001194.html",
+      "type": "装备 FAQ",
+      "description": "指向各型号使用说明中的保养要求，以及产品页可下载的 PPE 检查资料。适合查询装备清洁、存放和维护时首先进入，再按具体型号阅读对应文件。",
+      "http_status": 200,
+      "verified_at": "2026-10-16T22:08:16.6755077+08:00",
+      "verification_status": "已核验",
+      "final_url": "https://www.petzl.com/int/en/faq/how-do-i-care-appropriately-for-my-petzl-equipment-/000001194.html",
+      "verification_note": "实时 GET 返回 HTTP 200，主标题与对应资源一致：How do I care appropriately for my Petzl equipment?"
+    }
+  ]
+}

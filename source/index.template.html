@@ -1,0 +1,508 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light">
+<link rel="icon" href="data:,">
+<title>Petzl 攀岩教程目录</title>
+<style>
+/* Hallmark · macrostructure: Index-First · tone: editorial reference · anchor hue: cool blue · theme: Almanac · nav: N9 · footer: Ft2 */
+/* Hallmark · pre-emit critique: P5 H5 E4 S5 R5 V4 */
+/*__TOKENS__*/
+* { box-sizing: border-box; }
+html, body { overflow-x: clip; }
+html { scroll-behavior: auto; }
+body { margin: 0; background: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); font-size: var(--text-md); line-height: 1.65; }
+a { color: var(--color-accent); text-underline-offset: 0.2em; }
+button, input, select { font: inherit; }
+button, .button { min-height: var(--control-height); padding: var(--space-xs) var(--space-sm); border: var(--rule-thin) solid var(--color-control-rule); border-radius: var(--radius-sm); background: var(--color-transparent); color: var(--color-ink); cursor: pointer; line-height: 1.3; white-space: nowrap; text-decoration: none; display: inline-flex; justify-content: center; align-items: center; gap: var(--space-xs); }
+button:active, .button:active { background: var(--color-paper-3); color: var(--color-ink); }
+button[aria-pressed="true"] { background: var(--color-paper-2); color: var(--color-accent); border-color: var(--color-accent); font-weight: 700; }
+button:disabled, .button[aria-disabled="true"], input:disabled, select:disabled { opacity: 0.55; cursor: not-allowed; }
+[data-state="loading"] { cursor: progress; }
+[data-state="error"], [aria-invalid="true"] { border-color: var(--color-error); }
+[data-state="success"] { border-color: var(--color-success); }
+:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+button, input, select, a { -webkit-tap-highlight-color: var(--color-transparent); }
+@media (hover: hover) {
+  button:not(:disabled):hover, .button:hover { background: var(--color-paper-2); color: var(--color-accent); }
+  input:hover, select:hover { background: var(--color-paper-2); color: var(--color-ink); }
+  .entry:hover { background: var(--color-paper-2); color: var(--color-ink); }
+  a:hover { text-decoration-thickness: 2px; }
+}
+h1, h2, h3, p { margin: 0; }
+h1, h2, h3 { font-style: normal; min-width: 0; overflow-wrap: anywhere; }
+h1 { font-family: var(--font-display); font-size: var(--text-title); font-weight: 700; line-height: 1.3; }
+h2 { font-size: var(--text-lg); line-height: 1.5; }
+h3 { font-size: var(--text-lg); font-weight: 700; line-height: 1.55; }
+[hidden] { display: none !important; }
+.shell { width: 100%; max-width: 1328px; margin-inline: auto; padding-inline: var(--page-gutter); }
+.skip { position: fixed; top: var(--space-xs); left: var(--space-xs); transform: translateY(-200%); z-index: 10; padding: var(--space-sm); background: var(--color-ink); color: var(--color-paper); }
+.skip:focus { transform: none; }
+.nav-edge { display: flex; align-items: center; justify-content: space-between; gap: var(--space-md); padding-block: var(--space-lg); }
+.wordmark { color: var(--color-ink); text-decoration: none; font-size: var(--text-sm); font-weight: 700; letter-spacing: 0.06em; white-space: nowrap; }
+.wordmark span { display: block; font-family: var(--font-mono); font-size: 0.625rem; font-weight: 400; letter-spacing: 0.11em; color: var(--color-muted); }
+.nav-edge .button { font-size: var(--text-sm); }
+.intro { padding-block: var(--space-md) var(--space-xl); border-bottom: var(--rule-thin) solid var(--color-rule); }
+.intro h1 { margin-bottom: var(--space-sm); }
+.intro-copy { max-width: 65ch; color: var(--color-ink-2); font-size: var(--text-sm); }
+.download-links { display:flex; flex-wrap:wrap; gap:var(--space-xs); margin-top:var(--space-sm); }
+.download-links .button { font-size:var(--text-xs); }
+.snapshot { margin-top: var(--space-sm); color: var(--color-muted); font-size: var(--text-xs); }
+.catalogue { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-lg); padding-block: var(--space-xl); }
+.search-panel { min-width: 0; }
+.search-label { display: block; font-size: var(--text-sm); font-weight: 700; margin-bottom: var(--space-xs); }
+.search-line { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: var(--space-xs); }
+input[type="search"], select { width: 100%; min-width: 0; height: var(--control-height); padding: var(--space-xs) var(--space-sm); border: var(--rule-thin) solid var(--color-control-rule); border-radius: var(--radius-sm); background: var(--color-paper); color: var(--color-ink); line-height: 1.3; }
+input::placeholder { color: var(--color-muted); opacity: 1; }
+input[type="search"], select { outline: 2px solid var(--color-transparent); outline-offset: 1px; }
+input[type="search"]:focus-visible, select:focus-visible { outline-color: var(--color-focus); }
+select { font-size: var(--text-sm); padding-inline-end: var(--space-xl); }
+.helper { min-height: 1.65em; color: var(--color-muted); font-size: var(--text-xs); margin-top: var(--space-xs); }
+.activity-tabs { display: flex; flex-wrap: wrap; gap: var(--space-xs); margin-top: var(--space-md); }
+.activity-tabs button { flex: 0 0 auto; font-size: var(--text-sm); border-color: var(--color-rule); }
+.activity-tabs button[aria-pressed="true"] { border-color: var(--color-accent); }
+.filter-panel { border-block: var(--rule-thin) solid var(--color-rule); margin-top: var(--space-lg); }
+.filter-panel > summary { min-height: var(--control-height); cursor: pointer; padding-block: var(--space-sm); font-size: var(--text-sm); font-weight: 700; }
+.filter-panel > summary::marker { color: var(--color-accent); }
+.filter-fields { display: grid; gap: var(--space-md); padding-block: var(--space-xs) var(--space-lg); }
+.field label { display: block; font-size: var(--text-xs); color: var(--color-muted); margin-bottom: var(--space-2xs); }
+.check-row { display: flex; align-items: center; gap: var(--space-xs); min-height: var(--control-height); font-size: var(--text-sm); cursor: pointer; }
+.check-row input { width: 1.1rem; height: 1.1rem; margin: 0; accent-color: var(--color-accent); }
+.filter-actions { display: flex; align-items: center; flex-wrap: wrap; gap: var(--space-xs); }
+.filter-actions button { font-size: var(--text-sm); }
+.storage-note { color: var(--color-muted); font-size: var(--text-xs); margin-top: var(--space-sm); }
+.results { min-width: 0; }
+.result-head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: var(--space-xs) var(--space-md); padding-bottom: var(--space-sm); border-bottom: var(--rule-thin) solid var(--color-control-rule); }
+.result-tally { font-size: var(--text-sm); color: var(--color-muted); }
+.result-tally strong { font-family: var(--font-mono); font-size: var(--text-xl); font-weight: 500; color: var(--color-ink); font-variant-numeric: tabular-nums; margin-inline-end: var(--space-2xs); }
+.result-list { list-style: none; margin: 0; padding: 0; }
+.entry { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-md); padding-block: var(--space-lg); border-bottom: var(--rule-thin) solid var(--color-rule); }
+.entry-content { min-width: 0; }
+.entry-title { margin-bottom: var(--space-2xs); }
+.title-en { font-size: var(--text-sm); line-height: 1.6; color: var(--color-muted); overflow-wrap: anywhere; }
+.entry-meta { display: flex; gap: var(--space-xs); flex-wrap: wrap; align-items: center; margin-top: var(--space-sm); font-size: var(--text-xs); color: var(--color-muted); }
+.meta-tag { display: inline-block; padding-inline: var(--space-xs); border: var(--rule-thin) solid var(--color-rule); border-radius: var(--radius-sm); line-height: 1.8; }
+.meta-tag.scope-extension { border-color: var(--color-control-rule); }
+.entry-keywords { color: var(--color-muted); font-size: var(--text-xs); margin-top: var(--space-xs); overflow-wrap: anywhere; }
+.entry-actions { display: flex; align-items: center; flex-wrap: wrap; justify-content: flex-start; gap: var(--space-xs); }
+.entry-actions .button, .entry-actions button { font-size: var(--text-xs); }
+.source-button { border-color: var(--color-accent); color: var(--color-accent); font-weight: 700; }
+.mark-button { border-color: var(--color-rule); }
+.mark-button[aria-pressed="true"] { border-color: var(--color-accent); }
+.verification { color: var(--color-muted); font-size: var(--text-xs); margin-top: var(--space-xs); }
+.empty { padding-block: var(--space-2xl); }
+.empty-symbol { font-size: var(--text-xl); color: var(--color-muted); margin-bottom: var(--space-sm); }
+.empty p { color: var(--color-muted); font-size: var(--text-sm); max-width: 54ch; margin-block: var(--space-xs) var(--space-md); }
+.resources { padding-block: var(--space-xl); border-top: var(--rule-thin) solid var(--color-control-rule); }
+.resources > p { color: var(--color-muted); font-size: var(--text-sm); margin-block: var(--space-xs) var(--space-lg); max-width: 65ch; }
+.resource-list { display: grid; gap: 0; }
+.resource { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-sm); padding-block: var(--space-md); border-bottom: var(--rule-thin) solid var(--color-rule); }
+.resource h3 { font-size: var(--text-md); }
+.resource p { color: var(--color-muted); font-size: var(--text-sm); margin-top: var(--space-2xs); overflow-wrap: anywhere; }
+.resource .button { justify-self: start; font-size: var(--text-sm); }
+.coverage { margin-block: var(--space-xl); color: var(--color-muted); font-size: var(--text-sm); }
+.coverage summary { min-height: var(--control-height); padding-block: var(--space-sm); color: var(--color-ink); font-weight: 700; cursor: pointer; }
+.coverage p { max-width: 75ch; margin-top: var(--space-xs); }
+.foot-line { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: var(--space-sm); padding-block: var(--space-lg) var(--space-xl); border-top: var(--rule-thin) solid var(--color-rule); font-size: var(--text-xs); color: var(--color-muted); }
+.foot-line p { max-width: 65ch; }
+.status { min-height: 1.65em; font-size: var(--text-xs); color: var(--color-muted); margin-top: var(--space-xs); }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: clip; clip-path: inset(50%); white-space: nowrap; border: 0; }
+noscript p { padding: var(--space-lg); border: var(--rule-thin) solid var(--color-error); color: var(--color-error); margin-block: var(--space-lg); }
+@media (min-width: 40rem) {
+  .filter-fields { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .filter-checks, .filter-actions { grid-column: 1 / -1; }
+  .resource { grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: var(--space-lg); }
+}
+@media (min-width: 60rem) {
+  .catalogue { grid-template-columns: 244px minmax(0, 1fr); gap: var(--space-2xl); align-items: start; }
+  .search-panel { position: static; }
+  .activity-tabs { gap: var(--space-2xs); }
+  .activity-tabs button { padding-inline: var(--space-xs); }
+  .filter-fields { grid-template-columns: minmax(0, 1fr); }
+  .entry { grid-template-columns: minmax(0, 1fr) 112px; gap: var(--space-lg); }
+  .entry-actions { flex-direction: column; align-items: stretch; justify-content: flex-start; }
+  .entry-actions .button, .entry-actions button { width: 100%; }
+  .filter-actions { gap: var(--space-xs); }
+  .filter-actions button { padding-inline: var(--space-xs); }
+}
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: var(--dur-none) !important; transition-duration: var(--dur-none) !important; scroll-behavior: auto !important; } }
+@media print {
+  .nav-edge, .search-panel, .entry-actions, .resource .button, .storage-note, .status { display: none; }
+  .catalogue { display: block; }
+  .entry, .resource { break-inside: avoid; }
+  a::after { content: " (" attr(href) ")"; }
+}
+</style>
+</head>
+<body>
+<a href="#results" class="skip">跳到教程列表</a>
+<div class="shell">
+<!-- N9: one wordmark and one official-site link keep the index quiet. -->
+<header class="nav-edge">
+  <a class="wordmark" href="#top" aria-label="回到 Petzl 教程目录顶部">攀岩资料库<span>PETZL TECH TIPS INDEX</span></a>
+  <a class="button" href="https://www.petzl.com/int/en/sport" target="_blank" rel="noopener noreferrer">Petzl 官网 ↗</a>
+</header>
+<main id="top">
+  <section class="intro" aria-labelledby="page-title">
+    <h1 id="page-title">Petzl 攀岩教程目录</h1>
+    <p class="intro-copy">按主题、装备和使用场景查找。中文标题用于检索，技术细节请打开 Petzl 官方原文。</p>
+    <p class="snapshot" id="snapshot"></p>
+    <p class="snapshot" id="verification-summary"></p>
+    <div class="download-links"><a class="button" href="#resources">手册与资料 ↘</a><a class="button" id="download-csv" download hidden>CSV 表格 ↓</a><a class="button" id="download-md" download hidden>分类目录 ↓</a><a class="button" id="download-zip" download hidden>完整打包 ↓</a></div>
+  </section>
+  <noscript><p>此目录需要浏览器启用 JavaScript 才能筛选与显示条目。可先使用同文件夹中的 Markdown 或 CSV 目录。</p></noscript>
+  <div class="catalogue">
+    <aside class="search-panel" aria-label="查找与筛选">
+      <label class="search-label" for="search">搜索教程与资料</label>
+      <div class="search-line">
+        <input id="search" type="search" placeholder="如：保护站 / GRIGRI" autocomplete="off" aria-describedby="search-help" maxlength="160">
+        <button id="clear-search" type="button" aria-label="清空搜索">清空</button>
+      </div>
+      <p class="helper" id="search-help">中文、英文、装备、手册均可搜；空格分开多个词。</p>
+      <div class="activity-tabs" role="group" aria-label="活动范围">
+        <button type="button" data-activity="all" aria-pressed="true">全部</button>
+        <button type="button" data-activity="indoor" aria-pressed="false">室内 / 户外</button>
+        <button type="button" data-activity="multi" aria-pressed="false">多段攀岩</button>
+      </div>
+      <details class="filter-panel" id="filter-panel" open>
+        <summary>筛选目录</summary>
+        <div class="filter-fields">
+          <div class="field">
+            <label for="scope">收录范围</label>
+            <select id="scope"><option value="">主目录 + 装备扩展</option><option value="主目录">主目录</option><option value="装备扩展">装备扩展</option></select>
+          </div>
+          <div class="field"><label for="section">官方章节</label><select id="section"><option value="">全部章节</option></select></div>
+          <div class="field"><label for="equipment">相关装备</label><select id="equipment"><option value="">全部装备</option></select></div>
+          <div class="field"><label for="topic">查找主题</label><select id="topic"><option value="">全部主题</option></select></div>
+          <div class="field"><label for="read-state">阅读状态</label><select id="read-state"><option value="">全部状态</option><option value="unread">未标记已读</option><option value="read">已标记已读</option></select></div>
+          <div class="filter-checks">
+            <label class="check-row"><input id="favorites-only" type="checkbox"><span id="favorites-label">只看收藏</span></label>
+            <label class="check-row"><input id="video-only" type="checkbox"><span>只看含视频的教程</span></label>
+          </div>
+          <div class="filter-actions"><button type="button" id="reset">恢复默认</button><button type="button" id="export-favorites" disabled aria-describedby="export-help">导出收藏</button></div>
+        </div>
+      </details>
+      <p class="storage-note" id="storage-note">收藏与已读保存在当前浏览器，切换浏览器后不会自动同步。</p>
+      <p class="helper" id="export-help">收藏后可导出浏览器书签。</p>
+      <p class="status" id="status" role="status" aria-live="polite"></p>
+    </aside>
+    <section class="results" id="results" aria-labelledby="results-title" tabindex="-1">
+      <div class="result-head"><h2 id="results-title">教程索引</h2><p class="result-tally" id="result-count" role="status" aria-live="polite"></p></div>
+      <p class="helper" id="resource-hint" hidden></p>
+      <ul class="result-list" id="result-list" aria-busy="true"><li class="entry">目录加载中…</li></ul>
+      <div class="empty" id="empty" hidden>
+        <div class="empty-symbol" aria-hidden="true">⌕</div>
+        <h3>没有符合当前条件的教程</h3>
+        <p id="empty-reason">试试更短的关键词，或放宽活动、章节与装备筛选。</p>
+        <button type="button" id="empty-reset">清除筛选</button>
+      </div>
+    </section>
+  </div>
+  <section class="resources" id="resources" aria-labelledby="resources-title">
+    <h2 id="resources-title">官方手册与常用入口</h2>
+    <p class="helper" id="resource-count" role="status" aria-live="polite"></p>
+    <p>搜索同时检索这里的资料；活动、装备、主题和收藏筛选只作用于上方教程。手册与单篇教程分别计数。</p>
+    <div class="resource-list" id="resource-list"></div>
+  </section>
+  <details class="coverage">
+    <summary>收录与使用说明</summary>
+    <p id="coverage-note"></p>
+    <p>本目录提供检索与原文入口。装备使用应先阅读对应说明书，技术练习须接受专业培训，并按实际场景核对原文的适用条件。标记“已读”只代表阅读记录。</p>
+    <p>查找时可先选活动，再选主题或装备；没有结果时逐项放宽条件。主目录对应攀岩活动栏目，装备扩展帮助查到分散在产品页中的相关条目。</p>
+  </details>
+</main>
+<footer class="foot-line"><p>个人查阅目录 · 官方原文及相关版权归 Petzl 所有</p><p id="footer-date"></p></footer>
+</div>
+<script id="catalog-data" type="application/json">__CATALOG_JSON__</script>
+<script>
+(function () {
+  "use strict";
+  const byId = (id) => document.getElementById(id);
+  const data = JSON.parse(byId("catalog-data").textContent);
+  const articles = Array.isArray(data.articles) ? data.articles : [];
+  const resources = Array.isArray(data.resources) ? data.resources : [];
+  const meta = data.meta || {};
+  const list = byId("result-list");
+  const controls = ["scope", "section", "equipment", "topic", "read-state", "favorites-only", "video-only"];
+  const state = { activity: "all", favorites: new Set(), read: new Set(), persistent: true };
+  const storageKey = "petzl-tutorial-index:v1";
+  const clean = (value) => value == null ? "" : String(value);
+  const array = (value) => Array.isArray(value) ? value.map(clean).filter(Boolean) : (value ? [clean(value)] : []);
+  const normalize = (value) => clean(value).normalize("NFKC").toLocaleLowerCase().replace(/[’‘]/g, "'").replace(/®/g, "").replace(/[‐‑–—-]/g, " ").replace(/grigri\s*\+/g, "grigri plus").replace(/\s+/g, " ").trim();
+  const textNode = (tag, value, className) => {
+    const el = document.createElement(tag);
+    el.textContent = clean(value);
+    if (className) el.className = className;
+    return el;
+  };
+  const officialURL = (value) => {
+    try {
+      const url = new URL(clean(value));
+      const host = url.hostname.toLowerCase();
+      if (url.protocol === "https:" && (host === "petzl.com" || host.endsWith(".petzl.com") || host === "petzl.file.force.com")) return url.href;
+    } catch (_) {}
+    return null;
+  };
+  const externalLink = (url, label, accessibleLabel) => {
+    const href = officialURL(url);
+    if (!href) return textNode("span", "链接待复核", "verification");
+    const el = textNode("a", label, "button source-button");
+    el.href = href;
+    el.target = "_blank";
+    el.rel = "noopener noreferrer";
+    if (accessibleLabel) el.setAttribute("aria-label", accessibleLabel);
+    return el;
+  };
+  function announce(message) { byId("status").textContent = message; }
+  function storageUnavailable() {
+    state.persistent = false;
+    byId("storage-note").textContent = "浏览器未允许本地保存。收藏与已读在本次打开期间仍可使用；关闭前可导出收藏。";
+  }
+  try {
+    const probe = storageKey + ":probe";
+    localStorage.setItem(probe, "1");
+    localStorage.removeItem(probe);
+    const saved = JSON.parse(localStorage.getItem(storageKey) || "{}");
+    if (Array.isArray(saved.favorites)) state.favorites = new Set(saved.favorites.map(clean));
+    if (Array.isArray(saved.read)) state.read = new Set(saved.read.map(clean));
+  } catch (_) { storageUnavailable(); }
+  function save() {
+    if (!state.persistent) return;
+    try { localStorage.setItem(storageKey, JSON.stringify({ favorites: Array.from(state.favorites), read: Array.from(state.read) })); }
+    catch (_) { storageUnavailable(); }
+  }
+  const indexed = articles.map((article) => ({
+    article,
+    searchable: normalize([article.title_zh, article.title_en, ...array(article.equipment), ...array(article.topics), ...array(article.activities), ...array(article.official_sections)].join(" ")),
+    activityText: array(article.activities).join(" ")
+  }));
+  function populateSelect(id, field) {
+    const values = Array.from(new Set(articles.flatMap((a) => array(a[field])))).sort((a, b) => a.localeCompare(b, "zh-CN"));
+    values.forEach((value) => {
+      const option = textNode("option", value);
+      option.value = value;
+      byId(id).append(option);
+    });
+  }
+  populateSelect("section", "official_sections");
+  populateSelect("equipment", "equipment");
+  populateSelect("topic", "topics");
+  const counts = {
+    core: meta.core_count == null ? articles.filter((a) => a.scope === "主目录").length : meta.core_count,
+    total: meta.total_count == null ? articles.length : meta.total_count,
+    resources: meta.resource_count == null ? resources.length : meta.resource_count
+  };
+  const date = clean(meta.date).slice(0, 10);
+  byId("snapshot").textContent = "主目录 " + counts.core + " 篇 · 收录合计 " + counts.total + " 篇 · 手册与入口 " + counts.resources + " 项" + (date ? " · 目录更新 " + date : "");
+  byId("footer-date").textContent = date ? "目录更新 " + date : "目录快照";
+  byId("coverage-note").textContent = Array.isArray(meta.coverage_note) ? meta.coverage_note.join(" ") : clean(meta.coverage_note);
+  const verifyStart = clean(meta.verification_started_at).slice(0,10);
+  const verifyEnd = clean(meta.verification_completed_at).slice(0,10);
+  const verifiedRange = verifyStart && verifyEnd && verifyStart !== verifyEnd ? verifyStart + " 至 " + verifyEnd : verifyEnd;
+  byId("verification-summary").textContent = "正文链接 " + (meta.verified_count || 0) + "/" + articles.length + " 已核验" + (verifiedRange ? " · 核验日期 " + verifiedRange : "") + " · 资料入口 " + (meta.resource_verified_count || 0) + "/" + resources.length + " 已核验";
+  const resourceRows = [];
+  function renderResourceMatches() {
+    const terms = normalize(byId("search").value).split(/\s+/).filter(Boolean);
+    let matched = 0;
+    resourceRows.forEach(({row,searchable}) => { const visible = terms.every(term => searchable.includes(term)); row.hidden = !visible; if (visible) matched++; });
+    byId("resource-count").textContent = terms.length ? "匹配 " + matched + " 项 / 共 " + resources.length + " 项" : "共 " + resources.length + " 项资料";
+    const hint = byId("resource-hint");
+    hint.replaceChildren();
+    hint.hidden = !terms.length || matched === 0;
+    if (!hint.hidden) {
+      hint.append(document.createTextNode("补充资料另有 " + matched + " 项匹配。 "));
+      const jump = textNode("a", "查看匹配资料 ↓"); jump.href = "#resources"; hint.append(jump);
+    }
+    return matched;
+  }
+  [["download-csv","csv"],["download-md","markdown"],["download-zip","zip"]].forEach(([id,key]) => {
+    const name = meta.downloads && meta.downloads[key];
+    if (typeof name === "string" && name && !/[\\/]/.test(name) && !name.includes("..") && !name.includes(":")) { byId(id).href = "./" + encodeURIComponent(name); byId(id).hidden = false; }
+  });
+  const filterMedia = matchMedia("(min-width: 60rem)");
+  byId("filter-panel").open = filterMedia.matches;
+  function activityMatches(text) {
+    if (state.activity === "all") return true;
+    if (state.activity === "indoor") return /室内|户外|单段|运动攀岩|indoor|outdoor/i.test(text);
+    return /多段|多绳距|multi.?pitch/i.test(text);
+  }
+  function filtered() {
+    const terms = normalize(byId("search").value).split(/\s+/).filter(Boolean);
+    const scope = byId("scope").value;
+    const section = byId("section").value;
+    const equipment = byId("equipment").value;
+    const topic = byId("topic").value;
+    const readState = byId("read-state").value;
+    return indexed.filter(({ article: a, searchable, activityText }) => {
+      const id = clean(a.id);
+      return terms.every((term) => searchable.includes(term))
+        && activityMatches(activityText)
+        && (!scope || a.scope === scope)
+        && (!section || array(a.official_sections).includes(section))
+        && (!equipment || array(a.equipment).includes(equipment))
+        && (!topic || array(a.topics).includes(topic))
+        && (!byId("favorites-only").checked || state.favorites.has(id))
+        && (!byId("video-only").checked || a.has_video === true)
+        && (!readState || (readState === "read" ? state.read.has(id) : !state.read.has(id)));
+    }).map(({ article }) => article);
+  }
+  function createMarkButton(article, action, pressed) {
+    const title = clean(article.title_zh || article.title_en);
+    const label = action === "favorite" ? (pressed ? "已收藏" : "收藏") : (pressed ? "已读" : "标记已读");
+    const btn = textNode("button", label, "mark-button");
+    btn.type = "button";
+    btn.dataset.action = action;
+    btn.dataset.id = clean(article.id);
+    btn.setAttribute("aria-pressed", String(pressed));
+    btn.setAttribute("aria-label", (action === "favorite" ? (pressed ? "取消收藏：" : "收藏：") : (pressed ? "取消已读标记：" : "标记已读：")) + title);
+    return btn;
+  }
+  function createEntry(article) {
+    const id = clean(article.id);
+    const li = document.createElement("li");
+    const entry = document.createElement("article");
+    entry.className = "entry";
+    entry.dataset.id = id;
+    const content = document.createElement("div");
+    content.className = "entry-content";
+    const title = textNode("h3", article.title_zh || article.title_en, "entry-title");
+    content.append(title);
+    if (article.title_en) {
+      const en = textNode("p", article.title_en, "title-en");
+      en.lang = "en";
+      content.append(en);
+    }
+    const metadata = document.createElement("div");
+    metadata.className = "entry-meta";
+    if (article.scope === "装备扩展") metadata.append(textNode("span", "装备扩展", "meta-tag scope-extension"));
+    array(article.official_sections).forEach((section) => metadata.append(textNode("span", section, "meta-tag")));
+    if (article.has_video === true) metadata.append(textNode("span", "含视频", "meta-tag"));
+    if (metadata.childNodes.length) content.append(metadata);
+    const details = [];
+    const equipment = array(article.equipment);
+    const topics = array(article.topics);
+    if (equipment.length) details.push("装备：" + equipment.join(" · "));
+    if (topics.length) details.push("主题：" + topics.join(" · "));
+    if (details.length) content.append(textNode("p", details.join("　/　"), "entry-keywords"));
+    const status = Number(article.http_status);
+    if (status !== 200 || article.title_matches !== true) content.append(textNode("p", "原文链接尚未通过正文核验，请到官网复核。", "verification"));
+    if (article.context_note) content.append(textNode("p", article.context_note, "verification"));
+    const actions = document.createElement("div");
+    actions.className = "entry-actions";
+    actions.append(externalLink(article.url, "读原文 ↗", "在 Petzl 官网阅读：" + clean(article.title_zh || article.title_en)));
+    actions.append(createMarkButton(article, "favorite", state.favorites.has(id)));
+    actions.append(createMarkButton(article, "read", state.read.has(id)));
+    entry.append(content, actions);
+    li.append(entry);
+    return li;
+  }
+  function render(preserveFocus) {
+    const active = preserveFocus && document.activeElement && document.activeElement.dataset;
+    const focused = active && active.id && active.action ? { id: active.id, action: active.action } : null;
+    const visible = filtered();
+    const resourceMatches = renderResourceMatches();
+    list.replaceChildren();
+    const fragment = document.createDocumentFragment();
+    visible.forEach((article) => fragment.append(createEntry(article)));
+    list.append(fragment);
+    list.setAttribute("aria-busy", "false");
+    byId("empty").hidden = visible.length !== 0;
+    const count = byId("result-count");
+    count.replaceChildren(textNode("strong", visible.length), document.createTextNode("篇 / 共 " + articles.length + " 篇"));
+    const savedCount = articles.filter((a) => state.favorites.has(clean(a.id))).length;
+    byId("favorites-label").textContent = "只看收藏（" + savedCount + "）";
+    byId("export-favorites").disabled = savedCount === 0;
+    byId("export-help").textContent = savedCount ? "导出为 HTML 书签，可导入浏览器。" : "收藏后可导出浏览器书签。";
+    byId("clear-search").disabled = !byId("search").value;
+    if (byId("favorites-only").checked && savedCount === 0) byId("empty-reason").textContent = "你还没有收藏教程。关闭“只看收藏”，找到需要的条目后点“收藏”。";
+    else if (normalize(byId("search").value) && resourceMatches) byId("empty-reason").textContent = "单篇教程没有匹配；在下方官方手册与资料中找到了 " + resourceMatches + " 项。可点上方链接查看。";
+    else if (byId("scope").value) byId("empty-reason").textContent = "试将收录范围切换为“主目录 + 装备扩展”，或放宽其他条件。";
+    else byId("empty-reason").textContent = "试试更短的关键词，或放宽活动、章节与装备筛选。";
+    document.querySelectorAll("[data-activity]").forEach((btn) => btn.setAttribute("aria-pressed", String(btn.dataset.activity === state.activity)));
+    if (focused) {
+      const target = Array.from(list.querySelectorAll("button[data-action]")).find((btn) => btn.dataset.id === focused.id && btn.dataset.action === focused.action);
+      if (target) target.focus({ preventScroll: true });
+      else byId("results").focus({ preventScroll: true });
+    }
+  }
+  function resetFilters() {
+    byId("search").value = "";
+    byId("scope").value = "";
+    ["section", "equipment", "topic", "read-state"].forEach((id) => { byId(id).value = ""; });
+    ["favorites-only", "video-only"].forEach((id) => { byId(id).checked = false; });
+    state.activity = "all";
+    render(false);
+    byId("search").focus({ preventScroll: true });
+    announce("已恢复全部教程的默认筛选。收藏与已读标记仍保留。");
+  }
+  byId("search").addEventListener("input", () => render(false));
+  controls.forEach((id) => byId(id).addEventListener("change", () => render(false)));
+  document.querySelectorAll("[data-activity]").forEach((btn) => btn.addEventListener("click", () => {
+    state.activity = btn.dataset.activity;
+    render(false);
+  }));
+  byId("clear-search").addEventListener("click", () => {
+    byId("search").value = "";
+    render(false);
+    byId("search").focus({ preventScroll: true });
+  });
+  byId("reset").addEventListener("click", resetFilters);
+  byId("empty-reset").addEventListener("click", resetFilters);
+  list.addEventListener("click", (event) => {
+    const btn = event.target.closest("button[data-action]");
+    if (!btn) return;
+    const set = btn.dataset.action === "favorite" ? state.favorites : state.read;
+    const removing = set.has(btn.dataset.id);
+    if (removing) set.delete(btn.dataset.id);
+    else set.add(btn.dataset.id);
+    save();
+    render(true);
+    announce(btn.dataset.action === "favorite" ? (removing ? "已取消收藏。" : "已加入收藏。") : (removing ? "已取消已读标记。" : "已标记为已读。"));
+  });
+  function htmlEscape(value) {
+    return clean(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+  byId("export-favorites").addEventListener("click", () => {
+    const saved = articles.filter((a) => state.favorites.has(clean(a.id)) && officialURL(a.url));
+    if (!saved.length) { announce("没有可导出的有效官网链接。"); return; }
+    const lines = saved.map((a) => '<DT><A HREF="' + htmlEscape(officialURL(a.url)) + '">' + htmlEscape(a.title_zh || a.title_en) + (a.title_zh && a.title_en ? " · " + htmlEscape(a.title_en) : "") + "</A>");
+    const bookmarks = '<!DOCTYPE NETSCAPE-Bookmark-file-1>\n<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">\n<TITLE>Petzl 攀岩教程收藏</TITLE>\n<H1>Petzl 攀岩教程收藏</H1>\n<DL><p>\n' + lines.join("\n") + "\n</DL><p>\n";
+    try {
+      const blob = new Blob([bookmarks], { type: "text/html;charset=utf-8" });
+      const objectURL = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = objectURL;
+      link.download = "Petzl-教程收藏-" + (date || "bookmarks") + ".html";
+      document.body.append(link);
+      link.click();
+      link.remove();
+      setTimeout(() => URL.revokeObjectURL(objectURL), 1000);
+      announce("已导出 " + saved.length + " 条收藏书签。");
+    } catch (_) { announce("浏览器阻止了导出。请允许当前页面下载后重试。"); }
+  });
+  resources.forEach((resource) => {
+    const row = document.createElement("article");
+    row.className = "resource";
+    const content = document.createElement("div");
+    content.append(textNode("h3", resource.title_zh || resource.title_en));
+    if (resource.title_en) {
+      const en = textNode("p", resource.title_en, "title-en");
+      en.lang = "en";
+      content.append(en);
+    }
+    if (resource.description) content.append(textNode("p", resource.description));
+    row.append(content, externalLink(resource.url, "打开官方资料 ↗", "打开 Petzl 官方资料：" + clean(resource.title_zh || resource.title_en)));
+    row.dataset.resourceId = clean(resource.id);
+    resourceRows.push({row,searchable:normalize([resource.title_zh,resource.title_en,resource.type,resource.description,...array(resource.keywords)].join(" "))});
+    if (resource.verification_status !== "已核验") content.append(textNode("p", "该资料入口待复核，请结合官方来源页确认。", "verification"));
+    byId("resource-list").append(row);
+  });
+  if (!resources.length) byId("resources").hidden = true;
+  render(false);
+})();
+</script>
+</body>
+</html>
+

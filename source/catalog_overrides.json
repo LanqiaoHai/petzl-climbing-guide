@@ -1,0 +1,78 @@
+{
+  "a77w0000000KyxcAAC": {
+    "topics": [
+      "保护操作与制动",
+      "绳结与连接"
+    ]
+  },
+  "a77w0000000KyxNAAS": {
+    "topics": [
+      "保护操作与制动"
+    ]
+  },
+  "a77w0000000KyxXAAS": {
+    "topics": [
+      "独攀自我保护与适用限制"
+    ]
+  },
+  "a77Tx00000000KzIAI": {
+    "topics": [
+      "独攀自我保护与适用限制"
+    ]
+  },
+  "a77w0000000PCNoAAO": {
+    "topics": [
+      "传统与器械攀登",
+      "锁扣与装备选择"
+    ]
+  },
+  "a7768000000CaY8AAK": {
+    "topics": [
+      "锁扣与装备选择",
+      "拖拽与自救"
+    ]
+  },
+  "a77w0000000GmvrAAC": {
+    "topics": [
+      "锁扣与装备选择",
+      "多段保护站与协作"
+    ]
+  },
+  "a771r000000Co9qAAC": {
+    "topics": [
+      "拖拽与自救",
+      "锁扣与装备选择"
+    ],
+    "equipment_add": [
+      "MICRO TRAXION",
+      "NANO TRAXION",
+      "MINI TRAXION",
+      "PRO TRAXION",
+      "ROLLCLIP",
+      "滑轮"
+    ]
+  },
+  "a77w0000000PC34AAG": {
+    "topics": [
+      "绳索性能与坠落力学",
+      "锁扣与装备选择"
+    ],
+    "equipment_add": [
+      "RAD LINE",
+      "RAD SYSTEM",
+      "超静力辅绳"
+    ],
+    "context_note": "跨活动的装备适用限制；请核对原文限定用途。"
+  },
+  "a77w0000000KyxDAAS": {
+    "topics": [
+      "保护操作与制动"
+    ]
+  },
+  "a77w0000000TOrdAAG": {
+    "topics": [
+      "锁扣与装备选择",
+      "保护操作与制动"
+    ]
+  }
+}
